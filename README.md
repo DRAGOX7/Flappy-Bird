@@ -37,3 +37,12 @@ WingJump/
 │── parallax/                 # Game assets (images, sounds, icons)
 │── maint(t).py # Main game file
 │── README.md                  # Project documentation
+
+## 📸 Screenshots  
+
+### Main Menu  
+![Main Menu](./parallex/single_mode_first.png)
+
+### Gameplay  
+![Gameplay](./parallex/single_mode_second.png)
+
