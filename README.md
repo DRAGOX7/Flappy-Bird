@@ -48,3 +48,7 @@ WingJump/
 ### Gameplay with two players  
 ![Gameplay_2](./Parallax/multiplayer.png)
 
+🏆 Credits
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
+Developed by Abdullah
+Inspired by Flappy Bird, reimagined with multiplayer, health, and advanced features.
