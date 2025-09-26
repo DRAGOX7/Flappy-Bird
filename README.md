@@ -41,8 +41,8 @@ WingJump/
 ## 📸 Screenshots  
 
 ### Main Menu  
-![Main Menu](./parallex/single_mode_first.png)
+![Main Menu](./parallax/single_mode_first.png)
 
 ### Gameplay  
-![Gameplay](./parallex/single_mode_second.png)
+![Gameplay](./parallax/single_mode_second.png)
 
