@@ -1,11 +1,4 @@
-"""
-                        MADE BY:
-                        Aseel Mohammad Mahmoud Athamnh
-                        ID : 173205
-                        -
-                        Abdullah Talal Abdullah Aljafari
-                        ID : 169506
-"""
+
 
 import pygame
 import random
@@ -691,4 +684,5 @@ bird_group = pygame.sprite.Group()
 pipe_group = pygame.sprite.Group()
 
 # Run the main menu
+
 main_menu()
