@@ -45,4 +45,6 @@ WingJump/
 
 ### Gameplay  
 ![Gameplay](./Parallax/single_mode_second.png)
+### Gameplay with two players  
+![Gameplay_2](./Parallax/multiplayer.png)
 
