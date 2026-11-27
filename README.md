@@ -28,15 +28,21 @@ Sound Effects (flying, collision, death)
 Controller & Keyboard Support
 
 Main Menu & Restart System
+
+## 🕹️ Controls
+
 | Player   | Keyboard  | Controller   |
 | -------- | --------- | ------------ |
 | Player 1 | `SPACE`   | X / Square   |
 | Player 2 | `Arrow ↑` | O / Triangle |
-📂 Project Structure
-WingJump/
-│── parallax/                 # Game assets (images, sounds, icons)
-│── maint(t).py # Main game file
-│── README.md                  # Project documentation
+## 📂 Project Structure
+
+```
+Flappy-Bird/
+├── Parallax/     # Game assets (images, sounds, icons)
+├── main(t).py    # Main game file
+└── README.md     # Project documentation
+```
 
 ## 📸 Screenshots  
 
